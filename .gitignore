@@ -1,0 +1,52 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual Environment
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / Keras model files
+models/
+*.h5
+*.keras
+*.pb
+*.ckpt
+
+# Logs
+logs/
+*.log
+
+# Local data (dataset should not be pushed)
+data/
+
+# Results and submissions
+results/
+submission.csv
+
+# Temporary files
+*.tmp
+*.bak
+
+# Images generated for analysis
+*.png
+*.jpg
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
