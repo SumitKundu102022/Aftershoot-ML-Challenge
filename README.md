@@ -1,4 +1,3 @@
-# Aftershoot-ML-Challenge
 <h1 align="center">AfterShoot ML Challenge</h1>
 
 <p align="center">
